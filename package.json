@@ -1,0 +1,1 @@
+{"name":"calcpro","version":"1.0.0","private":true,"description":"CalcPro - pay-to-calculate SaaS demo","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
